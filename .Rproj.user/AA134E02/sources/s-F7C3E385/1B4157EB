@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1546751215741.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "640240891",
+    "id" : "1B4157EB",
+    "lastKnownWriteTime" : 1546750139,
+    "last_content_update" : 1546750139,
+    "path" : "~/Documents/Repos/bdown/public/post/2015-07-23-r-rmarkdown.Rmd",
+    "project_path" : "public/post/2015-07-23-r-rmarkdown.Rmd",
+    "properties" : {
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
