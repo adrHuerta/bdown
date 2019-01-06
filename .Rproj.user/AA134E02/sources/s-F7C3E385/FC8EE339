@@ -5,14 +5,14 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "1454518626",
+    "hash" : "2282697166",
     "id" : "FC8EE339",
-    "lastKnownWriteTime" : 1546752925,
-    "last_content_update" : 1546752925809,
+    "lastKnownWriteTime" : 1546752974,
+    "last_content_update" : 1546752974134,
     "path" : "~/Documents/Repos/bdown/config.toml",
     "project_path" : "config.toml",
     "properties" : {
-        "cursorPosition" : "22,19",
+        "cursorPosition" : "23,21",
         "scrollLine" : "9"
     },
     "relative_order" : 1,
