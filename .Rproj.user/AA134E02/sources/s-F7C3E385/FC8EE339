@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1546750137563.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1371056474",
+    "id" : "FC8EE339",
+    "lastKnownWriteTime" : 1546750202,
+    "last_content_update" : 1546750202110,
+    "path" : "~/Documents/Repos/bdown/config.toml",
+    "project_path" : "config.toml",
+    "properties" : {
+        "cursorPosition" : "0,11",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "toml"
+}
