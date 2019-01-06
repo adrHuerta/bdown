@@ -21,7 +21,7 @@ pygmentscodefences  = true
     url  = "https://github.com/davidhampgonsalves/hugo-black-and-light-theme"
 [[menu.main]]
     name = "Resume"
-    url  = "https://github.com/adrHuerta/CV/blob/master/ahuerta_cv.pdf"
+    url  = "content/about/"
 
 
 
