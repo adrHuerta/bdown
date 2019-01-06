@@ -1,0 +1,9 @@
+---
+title: hola mundo 2
+author: ~
+date: '2019-01-06'
+slug: hola-mundo-2
+categories: []
+tags: []
+---
+

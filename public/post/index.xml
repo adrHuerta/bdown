@@ -21,6 +21,15 @@
     </item>
     
     <item>
+      <title>hola mundo 2</title>
+      <link>/post/hola-mundo-2/</link>
+      <pubDate>Sun, 06 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/hola-mundo-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Black &amp; Light Demo</title>
       <link>/post/hugo-block-and-light-theme/</link>
       <pubDate>Sun, 08 Jan 2017 00:00:00 +0000</pubDate>
