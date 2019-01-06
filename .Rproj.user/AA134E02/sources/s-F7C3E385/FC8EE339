@@ -5,15 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "2601285416",
+    "hash" : "2417210576",
     "id" : "FC8EE339",
-    "lastKnownWriteTime" : 1546750801,
-    "last_content_update" : 1546750801219,
+    "lastKnownWriteTime" : 1546750864,
+    "last_content_update" : 1546750864759,
     "path" : "~/Documents/Repos/bdown/config.toml",
     "project_path" : "config.toml",
     "properties" : {
-        "cursorPosition" : "19,0",
-        "scrollLine" : "9"
+        "cursorPosition" : "1,23",
+        "scrollLine" : "0"
     },
     "relative_order" : 1,
     "source_on_save" : false,
